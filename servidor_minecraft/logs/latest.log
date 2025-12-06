@@ -1,0 +1,50 @@
+[05:41:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:41:22] [ServerMain/INFO]: No existing world data, creating new world
+[05:41:23] [ServerMain/INFO]: Loaded 1407 recipes
+[05:41:23] [ServerMain/INFO]: Loaded 1520 advancements
+[05:41:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[05:41:23] [Server thread/INFO]: Loading properties
+[05:41:23] [Server thread/INFO]: Default game type: SURVIVAL
+[05:41:23] [Server thread/INFO]: Generating keypair
+[05:41:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:41:23] [Server thread/INFO]: Using epoll channel type
+[05:41:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:41:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:41:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:41:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:41:23] [Server thread/INFO]: Preparing level "world"
+[05:41:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:41:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:41:51] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[05:41:51] [Server thread/INFO]: Time elapsed: 12708 ms
+[05:41:51] [Server thread/INFO]: Done (27.437s)! For help, type "help"
+[05:41:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:41:51] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/server/msx.py<--[HERE]
+[05:42:08] [Server thread/INFO]: yknza[/127.53.161.27:55489] logged in with entity id 7 at (89.5, 67.0, 14.5)
+[05:42:08] [Server thread/INFO]: yknza joined the game
+[05:44:17] [Server thread/INFO]: yknza has made the advancement [Stone Age]
+[05:44:21] [Server thread/INFO]: yknza has made the advancement [Getting an Upgrade]
